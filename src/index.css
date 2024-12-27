@@ -1274,7 +1274,7 @@ input:checked + .slider:before {
     margin-left:10% !important;
   }
   .item-wrapper{
-    visibility: hidden;
+    display: none;
   }
   #quien-soy{
     padding-top: 10% !important;
