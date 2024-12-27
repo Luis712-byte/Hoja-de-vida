@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11f62ba5.css",
+    "main.js": "/static/js/main.3cea0160.js",
+    "static/js/787.977d3f24.chunk.js": "/static/js/787.977d3f24.chunk.js",
+    "static/media/Biblioteca.png": "/static/media/Biblioteca.52120efe0abec5ea66c1.png",
+    "static/media/E-commerce.png": "/static/media/E-commerce.87a142cd407e128f0d91.png",
+    "static/media/Perfil.jpg": "/static/media/Perfil.721af54cf7d76ec570bd.jpg",
+    "static/media/flutter.png": "/static/media/flutter.fa7ff98d1523b808f6e5.png",
+    "static/media/Flag_of_Spain.svg": "/static/media/Flag_of_Spain.df284495e9b353e26682c78d780c5f27.svg",
+    "static/media/Resume.pdf": "/static/media/Resume.d00e255fbdc4daed2985.pdf",
+    "static/media/CVLuisAcosta.pdf": "/static/media/CVLuisAcosta.440f0f3268bd408208a0.pdf",
+    "static/media/Pivvot_reducida.jpg": "/static/media/Pivvot_reducida.4dbe94abb2476e635313.jpg",
+    "static/media/Flag_of_the_United_States.svg": "/static/media/Flag_of_the_United_States.2cd38b29c6d401d318403df9e01abc9d.svg",
+    "index.html": "/index.html",
+    "main.11f62ba5.css.map": "/static/css/main.11f62ba5.css.map",
+    "main.3cea0160.js.map": "/static/js/main.3cea0160.js.map",
+    "787.977d3f24.chunk.js.map": "/static/js/787.977d3f24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f62ba5.css",
+    "static/js/main.3cea0160.js"
+  ]
+}
