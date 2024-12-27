@@ -29,7 +29,6 @@ const MapsUbicacion = () => {
         <div className="main_wrapper">
           <div className="b_wrapper">
             <div className="container-fluid">
-              <div className="row justify-content-start">
                 <div className="col-md-5 col-lg-4 item-wrapper">
                   <h5 className="cardTitle mbr-fonts-style mb-2 display-5">
                     <strong>
@@ -63,7 +62,6 @@ const MapsUbicacion = () => {
                   </ul>
                 </div>
               </div>
-            </div>
           </div>
           <div className="google-map">
             <iframe
