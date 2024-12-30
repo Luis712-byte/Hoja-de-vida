@@ -1229,6 +1229,10 @@ input:checked + .slider:before {
 
 
 @media (max-width: 767px) {
+  .project-img img{
+    height: auto;
+  }
+    
   .project {
     padding: 15px;
     height: auto;
@@ -1410,6 +1414,9 @@ input:checked + .slider:before {
 }
 
 @media (max-width: 480px) {
+   .project-img img{
+    height: auto;
+  }
   .skills-container {
     padding: 10px;
   }
