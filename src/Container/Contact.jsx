@@ -25,7 +25,7 @@ const Contact = () => {
     e.preventDefault();
     console.log("Formulario enviado:", formData);
   
-      const response = await axios.post('https://hoja-de-vida-backend.onrender.com/', formData);
+      const response = await axios.post('https://hoja-de-vida-backend.onrender.com/send-email', formData);
       console.log("Respuesta del servidor:", response);
   
       setAlert({ type: "success", message: language === "es" ? "¡Gracias por contactarnos!" : "Thank you for contacting us!" });
