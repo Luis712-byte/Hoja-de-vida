@@ -1134,7 +1134,7 @@ input:checked + .slider:before {
   border-radius: 10px;
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   transition: transform 0.3s ease, box-shadow 0.3s ease; 
-  height: 450px;
+  height: auto;
 }
 
 .project:hover {
@@ -1186,6 +1186,7 @@ input:checked + .slider:before {
 .project-links li {
   display: inline-block;
   margin-right: 1rem;
+  margin-bottom: 25px;
 }
 
 .project-links a {
@@ -1268,10 +1269,6 @@ input:checked + .slider:before {
   
   .cid-uxk1GImM79 .google-map{
     width: 80%;
-  }
-
-  .project-links li{
-    margin-bottom: 15%;
   }
   .google-map_frame{
     width: 100% !important;
